@@ -1,4 +1,4 @@
-# Model-development-Artifact-1-
+# Model-Development-Artifact-1
 
 # Machine Learning Algorithms Infographic
 
