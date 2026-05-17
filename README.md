@@ -125,6 +125,3 @@ This infographic explains ten machine learning algorithms across supervised and 
 The main value of this artifact is clarity. It takes a complex topic and turns it into a structured visual guide that is easier to understand, review, and apply.
 
 ---
-
-## Suggested Repository Structure
-
